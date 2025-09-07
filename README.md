@@ -17,13 +17,13 @@
 ### What is `IDAHO`?
 `IDAHO` is a **user-friendly evolution** of `RACI`, redefining the roles to be **clearer** using **plain language** that aligns with **modern worksplace responsibilities**:
 
-| Old `RACI` keyword | New `IDAHO` keyword | Role & Responsibility |
+| Old `RACI` Roles | New `IDAHO` Roles | Description |
 | --- | --- | --- |
-| **Responsible** | **Implementer** | The doer(s). Executes the work. No confusion with accountability. |
-| **Accountable** | **Decision-Maker** | Owns the outcome and makes the final decision.<br>*NOTE: There should only ever be **one** Decision-Maker at any given time.* |
-| **Consulted** | **Advisor** | Provides input and expertise before a decision is made. Influence without authority. |
+| **Responsible** | **Implementer** | Removes the confusion with "Accountable". An Implementer is someone who does the actual work.
+| **Accountable** | **Decision Maker** | Removes the confusion with "Responsible". No more trying to figure out what "owner" means. The Decision Maker is the one who makes the final decision. It's as easy as that.<br>*NOTE: There should only ever be **one** decision maker at any given time.*
+| **Consulted** | **Advisor** | Role stays the same. In simpler language, the Advisor provides advice.
 | **—** | **Helper** | A new category: someone who floats in/out as needed to push the project along (e.g. project managers, asset creators, slide designers). |
-| **Informed** | **Observer** | Stays in the loop. Updated but not involved in decisions or execution. |
+| **Informed** | **Observer** | Role stays the same. In simpler language, the Observer observes the project but is not involved in implementing, decision-making, or advising.
 
 The result: **no overlap, no jargon, no confusion.**
 
