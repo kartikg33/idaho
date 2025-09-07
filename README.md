@@ -12,7 +12,6 @@
         ·
         <code>Observer</code>
     </p>
-    <hr style="height:1px; padding:0; margin:10px;">
 </div>
 
 ### What is `IDAHO`?
