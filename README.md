@@ -1,5 +1,5 @@
 <div align="center">
-    <h3><code>IDAHO</code> is a user-friendly evolution of <code>RACI</code> with sharper roles &amp; responsibilities and a more intuitive workflow.</h3>
+    <h3><code>IDAHO</code> is a user-friendly evolution of <code>RACI</code> with clearer roles &amp; responsibilities and a more intuitive workflow.</h3>
     <hr>
 </div>
 
