@@ -1,16 +1,28 @@
 <div align="center">
-    <h3><code>IDAHO</code> is a user-friendly evolution of <code>RACI</code> with clearer roles &amp; responsibilities and a more intuitive workflow.</h3>
-    <hr>
-    <blockquote style="width:300px">
-        <h4><code><u>IDAHO Roles:</u></code></h4>
-        <h5><code>Implementer</code></h5>
-        <h5><code>Decision-Maker</code></h5>
-        <h5><code>Advisor</code></h5>
-        <h5><code>Helper</code></h5>
-        <h5><code>Observer</code></h5>
-    </blockquote>
-    <hr>
+    <h3><code>IDAHO</code></h3>
+    <h4>An Evolution of <code>RACI</code></h4>
+    <p align="center">
+        <code>Implementer</code>
+        ·
+        <code>Decision-Maker</code>
+        ·
+        <code>Advisor</code>
+        ·
+        <code>Helper</code>
+        ·
+        <code>Observer</code>
+    </p>
 </div>
+
+### What is `IDAHO`?
+`IDAHO` is a user-friendly evolution of `RACI` with clearer roles &amp; responsibilities and a more intuitive workflow.
+
+The `IDAHO` roles are:
+- **Implementer** (*= Responsible*)
+- **Decision-Maker** (*= Accountable*)
+- **Advisor** (*= Consulted*)
+- **Helper** (*New!*)
+- **Observer** (*= Informed*)
 
 ### What's wrong with `RACI`?
 
@@ -26,11 +38,11 @@ Here are some common pain points of `RACI`:
 ### How does `IDAHO` clear the confusion?
 `IDAHO` builds on the strengths of `RACI` but redefines the roles in **plain language** that aligns with **modern workplace responsibilities**:
 
-- #### `Implementer`
-- #### `Decision-Maker`
-- #### `Advisor`
-- #### `Helper`
-- #### `Observer`
+- **Implementer** (was *Responsible*)
+- **Decision-Maker** (was *Accountable*)
+- **Advisor** (was *Consulted*)
+- **Helper** (*New!*)
+- **Observer** (was *Informed*)
 
 #### Why does this work better?
 
@@ -67,7 +79,7 @@ The result: **no overlap, no jargon, no confusion.**
    - Provides input, expertise, or feedback.  
    - Has influence before a decision is made, but not the final say.  
 
-4. **Helper** (new)  
+4. **Helper** (New!)  
    - Not fully committed to the project, but provides support when needed.  
    - Floats in and out to keep things moving (e.g. project managers, asset generation, PowerPoint support).  
    - Acts as a catalyst, not a core project member.  
