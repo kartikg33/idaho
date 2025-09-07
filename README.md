@@ -99,4 +99,4 @@ The result: **no overlap, no jargon, no confusion.**
 |---------------------|----------------|------------------------------------|------------|-----------|-------------|
 | **Launch Campaign** | Marketing Team | CMO | Commercial Partnerships Team, Legal | Project Manager | Exec Team |
 | **Publish Blog Post** | Writer, Designer | Content Lead | SEO Specialist | Asset Creator | Socials Team |
-| **Database Migration** | DevOps Team | CTO | Security Team | Project Manager | Engineering Managers |
+| **Database Migration** | DevOps Team | CTO | Security Team | Technical Project Manager | Engineering Managers |
