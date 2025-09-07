@@ -32,7 +32,7 @@ Here are some common pain points of `RACI`:
 #### Why does this work better?
 
 - **Plain Language** → Everyone instantly understands the roles.  
-- **Decision-first Framing** → Centers accountability on *who makes the decisions*.  
+- **Decision-First Framing** → Centers accountability on *who makes the decisions*.  
 - **Adds flexibility** → Helpers acknowledge the floating contributors that RACI ignores.  
 - **Evolution, not Replacement** → Builds on the foundations of `RACI` but fixes its pitfalls.  
 
