@@ -15,14 +15,17 @@
 </div>
 
 ### What is `IDAHO`?
-`IDAHO` is a user-friendly evolution of `RACI` with clearer roles &amp; responsibilities and a more intuitive workflow.
+`IDAHO` is a **user-friendly evolution** of `RACI`, redefining the roles to be **clearer** using **plain language** that aligns with **modern worksplace responsibilities**:
 
-The `IDAHO` roles are:
-- **Implementer** (*= Responsible*)
-- **Decision-Maker** (*= Accountable*)
-- **Advisor** (*= Consulted*)
-- **Helper** (*New!*)
-- **Observer** (*= Informed*)
+| Old `RACI` keyword | New `IDAHO` keyword | Role & Responsibility |
+| --- | --- | --- |
+| **Responsible** | **Implementer** | The doer(s). Executes the work. No confusion with accountability. |
+| **Accountable** | **Decision-Maker** | Owns the outcome and makes the final decision.<br>*NOTE: There should only ever be **one** Decision-Maker at any given time.* |
+| **Consulted** | **Advisor** | Provides input and expertise before a decision is made. Influence without authority. |
+| **—** | **Helper** | A new category: someone who floats in/out as needed to push the project along (e.g. project managers, asset creators, slide designers). |
+| **Informed** | **Observer** | Stays in the loop. Updated but not involved in decisions or execution. |
+
+The result: **no overlap, no jargon, no confusion.**
 
 ### What's wrong with `RACI`?
 
@@ -35,33 +38,11 @@ Here are some common pain points of `RACI`:
 - **Decision blind spots** → RACI doesn’t clearly identify who actually decides.
 - **Difficult adoption** → The jargon feels abstract and unintuitive outside project management.
 
-### How does `IDAHO` clear the confusion?
-`IDAHO` builds on the strengths of `RACI` but redefines the roles in **plain language** that aligns with **modern workplace responsibilities**:
-
-- **Implementer** (was *Responsible*)
-- **Decision-Maker** (was *Accountable*)
-- **Advisor** (was *Consulted*)
-- **Helper** (*New!*)
-- **Observer** (was *Informed*)
-
-#### Why does this work better?
-
+And here's how `IDAHO` resolves these:
 - **Plain Language** → Everyone instantly understands the roles.  
 - **Decision-First Framing** → Centers accountability on *who makes the decisions*.  
 - **Adds flexibility** → The Helpers role acknowledges the floating contributors that RACI ignores.  
 - **Evolution, not Replacement** → Builds on the foundations of `RACI` but fixes its pitfalls.  
-
-### How does this compare to `RACI`?
-
-| Old `RACI` keyword | New `IDAHO` keyword | Role & Responsibility |
-| --- | --- | --- |
-| **Responsible** | **Implementer** | The doer(s). Executes the work. No confusion with accountability. |
-| **Accountable** | **Decision-Maker** | Owns the outcome and makes the final decision.<br>*NOTE: There should only ever be **one** Decision-Maker at any given time.* |
-| **Consulted** | **Advisor** | Provides input and expertise before a decision is made. Influence without authority. |
-| **—** | **Helper** | A new category: someone who floats in/out as needed to push the project along (e.g. project managers, asset creators, slide designers). |
-| **Informed** | **Observer** | Stays in the loop. Updated but not involved in decisions or execution. |
-
-The result: **no overlap, no jargon, no confusion.**
 
 ## `IDAHO` roles in detail
 
