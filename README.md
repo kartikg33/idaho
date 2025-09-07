@@ -1,10 +1,6 @@
 <div align="center">
-    <h1><code>IDAHO</code></h1>
-    <p><em>pronounced "eye-dah-ho"</em></p>
     <h3><code>IDAHO</code> is a user-friendly evolution of <code>RACI</code> with sharper roles &amp; responsibilities and a more intuitive workflow.</h3>
-    <p align="center">
-        <img src=".github/raci_image.avif" alt="RACI Diagram" width="300">
-    </p>
+    <hr>
 </div>
 
 ### What's wrong with `RACI`?
