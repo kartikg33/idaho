@@ -1,6 +1,15 @@
 <div align="center">
     <h3><code>IDAHO</code> is a user-friendly evolution of <code>RACI</code> with clearer roles &amp; responsibilities and a more intuitive workflow.</h3>
     <hr>
+    <blockquote style="width:300px">
+        <h4><code><u>IDAHO Roles:</u></code></h4>
+        <h5><code>Implementer</code></h5>
+        <h5><code>Decision-Maker</code></h5>
+        <h5><code>Advisor</code></h5>
+        <h5><code>Helper</code></h5>
+        <h5><code>Observer</code></h5>
+    </blockquote>
+    <hr>
 </div>
 
 ### What's wrong with `RACI`?
