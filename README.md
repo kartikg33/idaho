@@ -19,11 +19,11 @@
 `IDAHO` is a user-friendly evolution of `RACI` with clearer roles &amp; responsibilities and a more intuitive workflow.
 
 The `IDAHO` roles are:
-- Implementer (*= Responsible*)
-- Decision-Maker (*= Accountable*)
-- Advisor (*= Consulted*)
-- Helper (*New!*)
-- Observer (*= Informed*)
+- **Implementer** (*= Responsible*)
+- **Decision-Maker** (*= Accountable*)
+- **Advisor** (*= Consulted*)
+- **Helper** (*New!*)
+- **Observer** (*= Informed*)
 
 ### What's wrong with `RACI`?
 
@@ -39,11 +39,11 @@ Here are some common pain points of `RACI`:
 ### How does `IDAHO` clear the confusion?
 `IDAHO` builds on the strengths of `RACI` but redefines the roles in **plain language** that aligns with **modern workplace responsibilities**:
 
-- Implementer (was *Responsible*)
-- Decision-Maker (was *Accountable*)
-- Advisor (was *Consulted*)
-- Helper (*New!*)
-- Observer (was *Informed*)
+- **Implementer** (was *Responsible*)
+- **Decision-Maker** (was *Accountable*)
+- **Advisor** (was *Consulted*)
+- **Helper** (*New!*)
+- **Observer** (was *Informed*)
 
 #### Why does this work better?
 
