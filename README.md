@@ -25,13 +25,13 @@ Here are some common pain points of `RACI`:
 
 `IDAHO` builds on the strengths of `RACI` but redefines the roles in **plain language** that aligns with **modern workplace responsibilities**:
 
-<code align="center">
-<h4>Implementer</h4>
-<h4>Decision-Maker</h4>
-<h4>Advisor</h4>
-<h4>Helper</h4>
-<h4>Observer</h4>
-</code>
+<div align="center">
+<h4><code>Implementer</code></h4>
+<h4><code>Decision-Maker</code></h4>
+<h4><code>Advisor</code></h4>
+<h4><code>Helper</code></h4>
+<h4><code>Observer</code></h4>
+</div>
 
 #### Why does this work better?
 
