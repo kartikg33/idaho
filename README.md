@@ -34,15 +34,15 @@ The result: **no overlap, no jargon, no confusion.**
 The greatest problem is that **most people struggle to explain the difference between "Responsible" and "Accountable"**. And that creates friction before the work has even started. 
 
 Here are some common pain points of `RACI`:
-- **Unclear language** → "Responsible" vs. "Accountable" is too similar.
-- **Decision blind spots** → RACI doesn’t clearly identify who actually decides.
-- **Difficult adoption** → The jargon feels abstract and unintuitive outside project management.
+- **Unclear Language** → "Responsible" vs. "Accountable" is too similar.
+- **Decision Blind Spots** → RACI doesn’t clearly identify who actually decides.
+- **Difficult Adoption** → The jargon feels abstract and unintuitive outside project management.
 
 And here's how `IDAHO` resolves these:
 - **Plain Language** → Everyone instantly understands the roles.  
 - **Decision-First Framing** → Centers accountability on *who makes the decisions*.  
-- **Adds flexibility** → The Helpers role acknowledges the floating contributors that RACI ignores.  
-- **Evolution, not Replacement** → Builds on the foundations of `RACI` but fixes its pitfalls.  
+- **Adds Flexibility** → The Helper role acknowledges the floating contributors that RACI ignores.  
+- **Evolution, Not Replacement** → Builds on the foundations of `RACI` but fixes its pitfalls.  
 
 ## `IDAHO` roles in detail
 
